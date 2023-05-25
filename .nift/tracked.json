@@ -1,0 +1,44 @@
+{
+	"tracked": [
+		{
+			"name": "/",
+			"title": "index",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "assets/css/font-awesome",
+			"title": "font-awesome",
+			"template": "templates/template.css",
+			"content-ext": ".css",
+			"output-ext": ".css"
+		},
+		{
+			"name": "assets/css/menu",
+			"title": "menu",
+			"template": "templates/template.css",
+			"content-ext": ".css",
+			"output-ext": ".css"
+		},
+		{
+			"name": "assets/css/style",
+			"title": "style",
+			"template": "templates/template.css",
+			"content-ext": ".css",
+			"output-ext": ".css"
+		},
+		{
+			"name": "assets/js/menu",
+			"title": "menu",
+			"template": "templates/template.js",
+			"content-ext": ".js",
+			"output-ext": ".js"
+		},
+		{
+			"name": "assets/js/script",
+			"title": "script",
+			"template": "templates/template.js",
+			"content-ext": ".js",
+			"output-ext": ".js"
+		}
+	]
+}
